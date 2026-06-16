@@ -1,9 +1,9 @@
 # Portfolio: Account Opening & Customer Onboarding
 
 ## Case Studies
-- [Partner-Integrated Sole-Proprietor Account Opening](case-studies/npay-sole-proprietor-onboarding.md)
-- [Delivery-App Integrated Account Opening Flow](case-studies/delivery-platform-deposit-onboarding.md)
-- [Military Payroll Account Opening & Card Issuance Flow](case-studies/military-payroll-onboarding.md)
+- [Partner-Integrated Sole-Proprietor Account Opening](case-studies/npay-sole-proprietor-account-opening.md)
+- [Delivery-App Integrated Account Opening Flow](case-studies/delivery-app-account-opening-flow.md)
+- [Military Payroll Account Opening & Card Issuance Flow](case-studies/military-payroll-account-opening.md)
 
 
 ## Notes
