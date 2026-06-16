@@ -1,4 +1,4 @@
-# Delivery-Platform Integrated Deposit Account Launch (Mobile Web)
+# Delivery-App Integrated Account Opening Flow
 
 > Public-safe case study. Product/brand specifics are generalized.
 
