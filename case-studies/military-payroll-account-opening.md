@@ -1,4 +1,4 @@
-# Military Payroll Account Onboarding (Mobile Web) — Dual Issuance Modes + Card Handoff
+# Military Payroll Account Opening — Dual Issuance Modes + Card Handoff
 
 > Public-safe case study. Internal IDs/URLs/protocol names are omitted.  
 > Focus: complex eligibility validation, staged rollout readiness, partner integration, and reliability under high expected traffic.
