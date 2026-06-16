@@ -1,4 +1,4 @@
-# Portfolio: Case Studies
+# Portfolio: Account Opening & Customer Onboarding
 
 ## Case Studies
 - [Partner-Integrated Sole-Proprietor Account Onboarding (Mobile Web)](case-studies/npay-sole-proprietor-onboarding.md)
