@@ -2,8 +2,9 @@
 
 ## Case Studies
 - [Partner-Integrated Sole-Proprietor Account Opening](case-studies/npay-sole-proprietor-account-opening.md)
-- [Delivery-App Integrated Account Opening Flow](case-studies/delivery-app-account-opening-flow.md)
 - [Military Payroll Account Opening & Card Issuance Flow](case-studies/military-payroll-account-opening.md)
+- [Delivery-App Integrated Account Opening Flow](case-studies/delivery-app-account-opening-flow.md)
+
 
 
 ## Notes
