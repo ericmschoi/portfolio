@@ -2,8 +2,8 @@
 
 ## Case Studies
 - [Partner-Integrated Sole-Proprietor Account Onboarding (Mobile Web)](case-studies/npay-sole-proprietor-onboarding.md)
-- [Delivery-Platform Integrated Deposit Account Launch (Mobile Web)](case-studies/delivery-platform-deposit-onboarding.md)
-- [Military Payroll Account Onboarding (Mobile Web)](case-studies/military-payroll-onboarding.md)
+- [Delivery-App Integrated Account Opening Flow (Mobile Web)](case-studies/delivery-platform-deposit-onboarding.md)
+- [Military Payroll Account Opening & Card Issuance Flow (Mobile Web)](case-studies/military-payroll-onboarding.md)
 
 
 ## Notes
