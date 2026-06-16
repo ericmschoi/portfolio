@@ -1,4 +1,4 @@
-# Partner-Integrated Sole-Proprietor Account Onboarding (Mobile Web)
+# Npay(NaverPay) Sole-Proprietor Account Opening
 
 > Public-safe case study. Internal IDs/URLs/protocol names are omitted.  
 > Focus: end-to-end onboarding delivery, partner integration, and post-launch reliability.
